@@ -1,5 +1,4 @@
 //g++ main.cpp $(pkg-config --cflags --libs sdl2) -lglut -lGL -lGLEW -g
-#define GLM_FORCE_RADIANS
 #include "initShaders.h"
 #include <cstdlib>
 using namespace std;
